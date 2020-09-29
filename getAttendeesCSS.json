@@ -1,5 +1,0 @@
-{
-	"testPage": "#mupMain > div > div > div > section > div.padding--top.margin--top > div > div > div > ul > li:nth-child(1) > div > div:nth-child(2) > div.flex.flex--row.flex--noGutters.flex--alignCenter > div > a > h4",
-    "section" : "#mupMain > div > div > div > section > div.padding--top.margin--top > div > div > div > ul"
-    
-}

@@ -1,8 +1,0 @@
-{
-	"eventTitle":"#eventPageHead--%v  > div > div > div > div > div.flex-item.flex-item--2.pageHead--titleArea > h1",
-	"eventDate" : "#eventHome--%v > div.flex.flex--column.atLarge_flex--row.atLarge_flex--rowReverse > div:nth-child(1) > div > section > div.chunk > div.card.card--initialHeight.atLarge_card--flush.card--flush.event-info.card--flushContent > section > div.chunk > div > div:nth-child(2) > div > time > span.eventTimeDisplay-startDate > span:nth-child(1)",
-	"eventStart": "#eventHome--%v > div.flex.flex--column.atLarge_flex--row.atLarge_flex--rowReverse > div:nth-child(1) > div > section > div.chunk > div.card.card--initialHeight.atLarge_card--flush.card--flush.event-info.card--flushContent > section > div.chunk > div > div:nth-child(2) > div > time > span.eventTimeDisplay-startDate > span.eventTimeDisplay-startDate-time > span",
-	"eventEnd" : "#eventHome--%v > div.flex.flex--column.atLarge_flex--row.atLarge_flex--rowReverse > div:nth-child(1) > div > section > div.chunk > div.card.card--initialHeight.atLarge_card--flush.card--flush.event-info.card--flushContent > section > div.chunk > div > div:nth-child(2) > div > time > span.eventTimeDisplay-endDate > span > span > span",
-	"eventDetails" :"#eventHome--%v > div.flex.flex--column.atLarge_flex--row.atLarge_flex--rowReverse > div.flex-item.flex-item--2.eventContent > div > div > section:nth-child(1) > div > div.event-description.runningText > p"
-}
-
